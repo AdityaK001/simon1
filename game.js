@@ -50,7 +50,7 @@ function gameover(){
     var gameoveraudio= new Audio('sounds/wrong.mp3');
     gameoveraudio.play();
     level=0;
-    $('h1').html('Game Over! Restart by pressing any keyboard button');
+    $('h1').html('Game Over! Restart by pressing any key');
     gamePattern.length = 0;
     userClickedPattern.length = 0;
 }
