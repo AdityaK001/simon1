@@ -1,0 +1,3 @@
+[submodule "openapi"]
+	path = trial
+	url = https://github.com/AdityaK001/todolistfrontend
